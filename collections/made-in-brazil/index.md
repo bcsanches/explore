@@ -35,6 +35,11 @@ items:
   - turicas/brasil.io
   - react-brasil/empresas-que-usam-react-no-brasil
   - bacen/pix-api
+  - bcsanches/DCCLite
+  - bcsanches/ldmonitor
+  - bcsanches/dbf2txt
+  - bcsanches/JsonCreator
+  - bcsanches/wadlib
   
 display_name: Made in Brazil
 created_by: caarlos0
